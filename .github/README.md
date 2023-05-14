@@ -1,4 +1,4 @@
-# AstroNvim User Configuration Example
+# Custom AstroNvim Configuration
 
 A user configuration template for [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 
